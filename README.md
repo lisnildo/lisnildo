@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Lisnildo!;Desenvolvedor+Web+|+Inovacao+em+IA;Focado+em+Seguranca+e+Analise+de+Risco;Automacao+Financeira+e+Sistemas+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Lisnildo!;Desenvolvedor+Web+|+Inovacao+em+IA;Engenharia+de+Software+e+Automacao;Sistemas+SaaS+e+Mercado+Financeiro" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  Engenheiro de Software com foco na construção de sistemas robustos e escaláveis. Especialista em plataformas de gestão, análise de risco para o varejo e automação financeira com alta assertividade.
+  Engenheiro de Software com foco na construção de sistemas robustos e escaláveis. Especialista em plataformas de gestão corporativa, integrações com Inteligência Artificial e automação financeira de alta assertividade.
 </p>
 
 <div align="center">
@@ -22,16 +22,23 @@
   <a href="https://x.com/lisnildo" target="_blank">
     <img src="https://img.shields.io/badge/X_Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Twitter"/>
   </a>
+  <a href="https://tiktok.com/@lisnildo" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@lisnildo" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
 </div>
 
 <br>
 
 ## 🚀 O que eu faço
 
-- 🏢 **Desenvolvimento SaaS:** Criador do "JR Contabilidades", um sistema abrangente para gestão de negócios, controle de clientes e rastreamento financeiro.
-- 🛡️ **Análise de Risco & Antifraude:** Desenvolvimento de lógicas e automações para mitigação de fraudes no varejo, com experiência prática liderando e otimizando o fluxo de trabalho para equipes de análise manual.
-- 🏛️ **Sistemas Governamentais:** Experiência na criação de sistemas digitais integrados para prefeituras e secretarias.
-- 🤖 **Mercado Financeiro:** Criação de bots de negociação automatizada (EAs) no MetaTrader 5, integrando IA para focar em segurança e alta assertividade nas operações de Forex.
+- 🌐 **Desenvolvimento Web Full-Stack:** Criação de plataformas do zero à produção, projetando arquiteturas escaláveis, APIs seguras e interfaces de alta performance.
+- 🏢 **Soluções Corporativas (SaaS):** Criador do "JR Contabilidades", um sistema abrangente para gestão de negócios, controle de clientes e rastreamento financeiro.
+- 🏛️ **Sistemas Governamentais:** Experiência no planejamento e criação de sistemas digitais integrados para modernização de prefeituras e secretarias públicas.
+- 🤖 **Mercado Financeiro & Trading Bots:** Criação de robôs de negociação automatizada (EAs) no MetaTrader 5, com foco em segurança, gestão de risco e alta assertividade nas operações de Forex.
+- 🧠 **Integração com Inteligência Artificial:** Desenvolvimento de soluções inteligentes utilizando IA para otimização de processos, análise de dados e automação de tarefas repetitivas.
 
 <br>
 
@@ -39,7 +46,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,supabase,nodejs,git,github,vscode,linux&theme=dark" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,supabase,postgresql,nodejs,python,docker,aws,git,github,vscode,linux,figma,postman&theme=dark" alt="Minhas Habilidades" />
   </a>
 </div>
 
