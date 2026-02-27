@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Lisnildo 👋
 
-<!--
-**lisnildo/lisnildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções que resolvem problemas reais. Tenho experiência na construção de sistemas complexos, desde plataformas de gestão e controle até ferramentas de análise de risco e automação.
 
-Here are some ideas to get you started:
+### 🚀 O que eu faço
+* **Desenvolvimento Web:** Criação de sistemas escaláveis e interfaces intuitivas.
+* **Análise e Dados:** Estruturação de bancos de dados e análise para mitigação de riscos.
+* **Inovação:** Integração de Inteligência Artificial e foco constante em cibersegurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** TypeScript, JavaScript, HTML/CSS
+* **Backend & Cloud:** Supabase, Node.js
+* **Outros:** Integração de APIs de IA, Automação, Git
+
+### 📊 Estatísticas do GitHub
+[![Lisnildo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisnildo&show_icons=true&theme=radical)](https://github.com/lisnildo)
+
+### 📬 Como me encontrar
+* **Portfólio / Serviços:** [lisnildo.com.br](https://lisnildo.com.br)
+* **LinkedIn:** [Seu link do LinkedIn aqui]
