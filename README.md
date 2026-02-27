@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Lisnildo!;Desenvolvedor+Web+|+Inovacao+em+IA;Focado+em+Seguranca+e+Analise+de+Risco;Automacao+Financeira+e+Sistemas+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Lisnildo!;Desenvolvedor+Web+|+Inovacao+em+IA;Focado+em+Seguranca+e+Analise+de+Risco;Automacao+Financeira+e+Sistemas+SaaS&cache_seconds=86400" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -48,10 +48,8 @@
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <a href="https://github.com/lisnildo">
-    <img src="https://github-readme-stats.vercel.app/api?username=lisnildo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9&disable_animations=false" height="160" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisnildo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9" height="160" alt="Top Linguagens" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lisnildo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9&cache_seconds=86400&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisnildo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&cache_seconds=86400" height="160" alt="Top Linguagens" />
 </div>
 
 <br>
