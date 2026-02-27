@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Lisnildo!;Desenvolvedor+Web+|+Inovacao+em+IA;Focado+em+Seguranca+e+Analise+de+Risco;Automacao+Financeira+e+Sistemas+SaaS&cache_seconds=86400" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Ola,+eu+sou+o+Lisnildo!;Desenvolvedor+Web+|+Inovacao+em+IA;Focado+em+Seguranca+e+Analise+de+Risco;Automacao+Financeira+e+Sistemas+SaaS" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 - 🏢 **Desenvolvimento SaaS:** Criador do "JR Contabilidades", um sistema abrangente para gestão de negócios, controle de clientes e rastreamento financeiro.
 - 🛡️ **Análise de Risco & Antifraude:** Desenvolvimento de lógicas e automações para mitigação de fraudes no varejo, com experiência prática liderando e otimizando o fluxo de trabalho para equipes de análise manual.
-- 🏛️ **Sistemas Governamentais:** Experiência na criação de sistemas digitais integrados para prefeituras e secretarias (Gestão Pública).
+- 🏛️ **Sistemas Governamentais:** Experiência na criação de sistemas digitais integrados para prefeituras e secretarias.
 - 🤖 **Mercado Financeiro:** Criação de bots de negociação automatizada (EAs) no MetaTrader 5, integrando IA para focar em segurança e alta assertividade nas operações de Forex.
 
 <br>
@@ -48,8 +48,9 @@
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lisnildo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9&cache_seconds=86400&locale=pt-br" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisnildo&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9&cache_seconds=86400" height="160" alt="Top Linguagens" />
+  <a href="https://github.com/lisnildo">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lisnildo&theme=dark&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=00FF99&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=00000000&hide_border=true" height="170" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
