@@ -50,5 +50,16 @@
 <br>
 
 <div align="center">
+  <h3>🐍 Minhas Contribuições</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lisnildo/lisnildo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lisnildo/lisnildo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lisnildo/lisnildo/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=lisnildo&label=Visualizações+do+Perfil&color=00FF99&style=for-the-badge" alt="Views" />
 </div>
