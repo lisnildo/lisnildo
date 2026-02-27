@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://github.com/lisnildo">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lisnildo&theme=dark&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=00FF99&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=00000000&hide_border=true" height="170" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=lisnildo&theme=dark&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=00FF99&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=00000000&hide_border=true&locale=pt_BR" height="170" alt="GitHub Streak" />
   </a>
 </div>
 
